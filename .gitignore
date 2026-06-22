@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Model file (large binary — optional to exclude)
+pothole_model.pkl
+
+# Dataset (usually too large for GitHub)
+Dataset/
+My Dataset
+
+# VS Code
+.vscode/
+
+internship report.docx
+Miniproject[1].docx
+Miniproject[11].pdf
+report.pdf
+sourcecode.txt
